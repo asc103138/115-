@@ -1,0 +1,12 @@
+# 忽略系統與環境檔案
+.DS_Store
+.env
+__pycache__/
+node_modules/
+.venv/
+venv/
+
+# 忽略敏感設定
+*.pem
+*.key
+*.log
