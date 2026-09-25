@@ -1,0 +1,15 @@
+body {
+    writing-mode: vertical-rl;
+    column-count: 2;
+    column-gap: 2em;
+    font-family: "BiauKai", "DFKai-SB", "TW-Kai", serif;
+    margin: 20px;
+    font-size: 14pt;
+    line-height: 1.6;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+.page-break {
+    page-break-after: always;
+}
