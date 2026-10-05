@@ -10,3 +10,10 @@ venv/
 *.pem
 *.key
 *.log
+
+# 忽略測試與中間暫存檔
+test_*
+exam_boxes/
+exam_boxes_large/
+*.png
+*.ttf
