@@ -17,3 +17,5 @@ exam_boxes/
 exam_boxes_large/
 *.png
 *.ttf
+filled_spec.*
+template_spec.*
